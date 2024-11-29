@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.27)  28 NOV 2024 20:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.27)  28 NOV 2024 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -307,15 +307,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--97
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
-
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 100.
+(Font)              <7> on input line 97.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 100.
+(Font)              <5> on input line 97.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 25.0pt, for example:
@@ -328,7 +323,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ocal/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 101--104
+Underfull \hbox (badness 10000) in paragraph at lines 98--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 
  []
 
@@ -343,11 +343,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--111
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
-
- []
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 25.0pt, for example:
 (fancyhdr)                \setlength{\headheight}{25.0pt}.
@@ -355,16 +350,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.0pt}.
 
-[2]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 25.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{25.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.0pt}.
-
-[3] (./SoP.aux)
+[2] (./SoP.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -373,8 +359,8 @@ Package rerunfilecheck Info: File `SoP.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9193 strings out of 474116
- 139645 string characters out of 5743681
+ 9192 strings out of 474116
+ 139639 string characters out of 5743681
  1944187 words of memory out of 5000000
  31484 multiletter control sequences out of 15000+600000
  559608 words of font info for 38 fonts, out of 8000000 for 9000
@@ -382,10 +368,10 @@ Here is how much of TeX's memory you used:
  75i,13n,79p,1358b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on SoP.pdf (3 pages, 60219 bytes).
+Output written on SoP.pdf (2 pages, 59953 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 28 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
