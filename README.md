@@ -11,6 +11,7 @@ After modifying `SoP.tex`, type the following command on the terminal:
 
 ```
 pdflatex SoP.tex
+bibtex SoP
 ```
 
 

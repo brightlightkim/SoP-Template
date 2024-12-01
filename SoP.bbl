@@ -1,0 +1,72 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[ACM(2022)]{byuacm2022}
+BYU ACM.
+\newblock Byu's annual yhack, 2022.
+\newblock \url{https://www.instagram.com/p/CakqQuEPi_o/} [Accessed:
+  2024-11-30].
+
+\bibitem[CS(2024)]{cybersecurity}
+BYU CS.
+\newblock Byu cs capstone celebration, 2024.
+\newblock \url{https://www.instagram.com/p/C5TfPi1RAS6/} [Accessed:
+  2024-11-30].
+
+\bibitem[Inc.(2024)]{pattern}
+Pattern Inc.
+\newblock Pattern employee of the year, 2024.
+\newblock
+  \url{https://www.youtube.com/watch?v=uIf8cLC_Hds&list=LL&index=6&t=970s}
+  [Accessed: 2024-11-30].
+
+\bibitem[ITCSA(2023)]{raspberrypi}
+BYU ITCSA.
+\newblock Byu raspberry pi competition, 2023.
+\newblock \url{https://picontest.byu.edu/} [Accessed: 2024-11-30].
+
+\bibitem[{Substance Abuse and Mental Health Services
+  Administration}(2024)]{health}
+{Substance Abuse and Mental Health Services Administration}.
+\newblock 2023 companion infographic report: Results from the 2021, 2022, and
+  2023 national surveys on drug use and health.
+\newblock \emph{Substance Abuse and Mental Health Services Administration
+  Reports}, 25\penalty0 (1):\penalty0 8--13, 2024.
+\newblock URL
+  \url{https://www.samhsa.gov/data/sites/default/files/reports/rpt47096/2023-nsduh-companion-report.pdf}.
+
+\bibitem[Organization(2023)]{depression}
+World~Health Organization.
+\newblock Depressive disorder (depression), 2023.
+\newblock \url{https://www.who.int/news-room/fact-sheets/detail/depression}
+  [Accessed: 2024-11-30].
+
+\bibitem[Kubota(2024)]{diyiyang}
+Taylor Kubota.
+\newblock Diyi yang on language, computers, and societal impact, 2024.
+\newblock
+  \url{https://news.stanford.edu/stories/2024/11/diyi-yang-on-language-computers-and-societal-impact}
+  [Accessed: 2024-11-30].
+
+\bibitem[Grannen et~al.(2024)Grannen, Karamcheti, Mirchandani, Liang, and
+  Sadigh]{grannen2024vocal}
+Jennifer Grannen, Siddharth Karamcheti, Suvir Mirchandani, Percy Liang, and
+  Dorsa Sadigh.
+\newblock Vocal sandbox: Continual learning and adaptation for situated
+  human-robot collaboration.
+\newblock In \emph{Proceedings of the 8th Conference on Robot Learning (CoRL),
+  November 2024}, 2024.
+
+\bibitem[Srinivasan et~al.(2024)Srinivasan, Collins, Heiden, Ng, Bohg, and
+  Garg]{srinivasan2024dexmots}
+Krishnan Srinivasan, Jeremy~A. Collins, Eric Heiden, Ian Ng, Jeannette Bohg,
+  and Animesh Garg.
+\newblock Dexmots: Dexterous manipulation with differentiable simulation.
+\newblock In \emph{International Symposium of Robotics Research (ISRR)},
+  December 2024.
+
+\end{thebibliography}
