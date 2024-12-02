@@ -1,4 +1,4 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{10}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -10,6 +10,14 @@ BYU ACM.
 \newblock Byu's annual yhack, 2022.
 \newblock \url{https://www.instagram.com/p/CakqQuEPi_o/} [Accessed:
   2024-11-30].
+
+\bibitem[Kim et~al.(2024)Kim, Frazer, Peterson, Tingey, Holt, and
+  Reed]{kim2024llm}
+Taeyang Kim, Bronze Frazer, Isaac Peterson, Damon Tingey, Ryan Holt, and Mike
+  Reed.
+\newblock {LLM Network Intrusion Detection System}.
+\newblock \emph{Natural Language Processing}, November 2024.
+\newblock Submitted; Document ID: NLP-2024-0235.
 
 \bibitem[CS(2024)]{cybersecurity}
 BYU CS.
